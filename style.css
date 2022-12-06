@@ -1,0 +1,15 @@
+body{
+    padding: 30px;
+}
+.container{
+    padding: 30px;
+    border-radius: 20px;
+    background-image: url(https://media.tenor.com/fMCz1Bc_BTQAAAAM/nzxt-gif.gif);
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+}
+.heading{
+    background-image: linear-gradient(to bottom right, blue, aqua);
+    border-radius: 30px;
+    font-family:'Courier New', Courier, monospace;
+}
